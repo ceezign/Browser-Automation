@@ -1,1 +1,2 @@
-# Browser-Automation
+# Browser Automation App (Selenium-Powered)
+This app automates web browsing tasks using Selenium WebDriver. It can perform actions such as filling out forms, clicking buttons, scraping content, logging into websites, and navigating through pages—just like a real user. Designed for efficiency and reliability, the app supports multiple browsers (like Chrome and Firefox) and can be customized for specific workflows, data collection, or testing purposes.
